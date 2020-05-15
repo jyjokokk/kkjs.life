@@ -8,5 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jyrki Kokkola",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "process": "^0.11.10"
+  }
 }
