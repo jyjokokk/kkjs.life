@@ -110,3 +110,6 @@ temp/
 
 # End of https://www.gitignore.io/api/node
 
+# Personal ignores
+.todo2
+.todo2~
